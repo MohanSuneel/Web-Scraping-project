@@ -1,4 +1,4 @@
-# Web-Scraping-project
+
 # COVID-19 Data Analysis Project 👩‍💻📊
 
 ## Overview of the Project 📑
